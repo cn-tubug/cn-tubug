@@ -18,4 +18,4 @@
 
 - 即使前方的路看似绝境，也要有硬生生给自己开出一条路的勇气
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cn-tubug&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=cn-tubug&show_icons=true">
