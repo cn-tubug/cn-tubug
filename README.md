@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @cn-tubug
-- 👀 I’m interested in physics
-- 🌱 I’m currently learning physics
-- 📫 How to reach me admin@tubug.cn
+## 关于我：
 
-<!---
-cn-tubug/cn-tubug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 爱好计算机，会去自学自己感兴趣的一切东西
+
+- 略懂H5，C#开发；爱好折腾去解决一切问题
+
+- 同时我也很喜欢玩硬件，raspberry是我的最爱
+
+- 这条路我才刚刚迈开了我的第一步
+
+- 路上的坎一定会非常多，但
+
+- 在我眼里
+
+- 没有什么问题是尝试不能解决的，如果有那就多尝试几次甚至上百次
+
+- 即使前方的路看似绝境，也要有硬生生给自己开出一条路的勇气
+
+<img src="http://file.tubug.cn/image/g.jpeg" alt="TUBUG" style="zoom:25%;" />
